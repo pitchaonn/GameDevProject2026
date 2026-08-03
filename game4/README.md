@@ -4,9 +4,20 @@ This starter kit provides all the essential mechanics needed to build a complete
 
 ## Preview
 
-<img src="docs/qrcode.png" style="width:300px;" />
+a. เพิ่ม คำอธิบายโครงการ ระบุ รหัส ชื่อสกุล
 
-- [Game Preview](https://computingkku.github.io/2D-Platformer-Starter-Kit/)
+673380331-1 นางสาวพิชชาอร ณ นครพนม
+
+<img src="game4/game4_demo1.png" style="width:300px;" />
+<img src="game4/game4_demo2.png" style="width:300px;" />
+
+b. เพิ่ม Link ดู Clip Demo VDO  
+
+https://drive.google.com/file/d/1DaQWWssTAd89yEHxU-JB4SbQSp455pNa/view?usp=sharing
+
+c. เพิ่ม Link Play Game ไปที่  Githup Page URL
+
+- [Game Preview](https://pitchaonn.github.io/GameDevProject2026/game4/game4.html)
 
 
 ## Features
